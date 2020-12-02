@@ -13,14 +13,10 @@
             border: 0;
             box-sizing: border-box;
         }
-        body {
-            text-aling: center;
-        } 
         .text {
             width: 400px;
             max-width: 90%;
-            margin: 50px auto;
-            background: lightsilver;            
+            margin: 50px auto;           
             font-family:sans-serif;
             text-align: justify;
             text-justify: inter-word;
